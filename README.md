@@ -22,6 +22,8 @@ By guiding users through a step-by-step process with clear choices and questions
 [Budget Balancer](https://github.com/sourceduty/Budget_Balancer)
 <br>
 [Stock Market AI](https://github.com/sourceduty/Stock_Market_AI)
+<br>
+[Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
